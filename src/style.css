@@ -200,6 +200,11 @@ body {
 	margin-bottom: 0;
 }
 
+.instructions-list li strong {
+	font-weight: 700;
+	color: var(--color-brown-800);
+}
+
 /* Nutrition */
 .nutrition-description {
 	margin-bottom: 1.5rem;
